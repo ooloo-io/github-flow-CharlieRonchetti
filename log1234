@@ -1,0 +1,47 @@
+* [33mcommit b39a8ba4173d85b98663603c6869d91d66e86db5[m[33m ([m[1;36mHEAD -> [m[1;32mbottom-section[m[33m, [m[1;31morigin/bottom-section[m[33m)[m
+[31m|[m Author: CharlieRonchetti <85499184+CharlieRonchetti@users.noreply.github.com>
+[31m|[m Date:   Wed Jan 10 14:26:34 2024 +0000
+[31m|[m 
+[31m|[m     Add bottom section
+[31m|[m 
+* [33mcommit ac53ccb352faa2c837d2883863a1722690b06a8c[m
+[31m|[m Author: CharlieRonchetti <85499184+CharlieRonchetti@users.noreply.github.com>
+[31m|[m Date:   Wed Jan 10 13:33:16 2024 +0000
+[31m|[m 
+[31m|[m     updated .content class
+[31m|[m 
+* [33mcommit ac06fb54995c79a2ba790bfd615045b17098f133[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+[31m|[m Author: CharlieRonchetti <85499184+CharlieRonchetti@users.noreply.github.com>
+[31m|[m Date:   Wed Jan 10 13:25:32 2024 +0000
+[31m|[m 
+[31m|[m     Footer (#2)
+[31m|[m     
+[31m|[m     * added markup for footer
+[31m|[m     
+[31m|[m     * added styles for footer
+[31m|[m     
+[31m|[m     * moved footer to bottom of page
+[31m|[m     
+[31m|[m     * changed footer heigh to 49px
+[31m|[m 
+* [33mcommit 13de7b340e4116f0020ac410713689cabc154fd7[m
+[31m|[m Author: ooloo bot <66779420+ooloo-bot@users.noreply.github.com>
+[31m|[m Date:   Wed Jan 10 14:17:05 2024 +0100
+[31m|[m 
+[31m|[m     Fix: Header (#3)
+[31m|[m 
+* [33mcommit 49a7b28925cba3dff551ac8db7cfb0c824bf92c0[m
+[31m|[m Author: CharlieRonchetti <85499184+CharlieRonchetti@users.noreply.github.com>
+[31m|[m Date:   Tue Jan 9 14:28:11 2024 +0000
+[31m|[m 
+[31m|[m     Header (#1)
+[31m|[m     
+[31m|[m     * Add header markup
+[31m|[m     
+[31m|[m     * Add header styles
+[31m|[m 
+* [33mcommit 0f29b7301ecabdc07fb43ea81a687bee87f53d01[m
+  Author: ooloo bot <66779420+ooloo-bot@users.noreply.github.com>
+  Date:   Tue Jan 9 15:02:21 2024 +0100
+  
+      Initial commit
